@@ -1,0 +1,37 @@
+metal,data_category,frequency,start_date,end_date,source,status
+Silver,Mine Production,Annual,2011-01-01,2024-12-31,The Silver Institute / Metals Focus (WSS),Verified
+Silver,Recycling Supply,Annual,2011-01-01,2024-12-31,The Silver Institute (WSS),Verified
+Silver,Photovoltaics (Solar),Annual,2011-01-01,2024-12-31,The Silver Institute (WSS),Verified
+Silver,Industrial Demand,Annual,2011-01-01,2024-12-31,The Silver Institute (WSS),Verified
+Silver,Physical Investment,Annual,2011-01-01,2024-12-31,The Silver Institute (WSS),Verified
+Silver,Physical Market Balance,Annual,2011-01-01,2024-12-31,The Silver Institute (WSS),Verified
+Silver,USGS Mine Production,Annual,2018-01-01,2024-12-31,USGS Mineral Commodity Summaries,Verified
+Silver,Futures Price (SI=F),Daily,2000-08-30,2026-10-20,CME / COMEX via Yahoo Finance,Verified
+Silver,ETF Physical Holdings (SLV),Daily,2006-04-28,2026-10-19,iShares Silver Trust via Yahoo Finance,Verified
+Silver,Positioning (CFTC COT),Weekly,2018-01-02,2024-12-31,CFTC Disaggregated & Legacy (084691),Verified
+Silver,Global Benchmark Price,Monthly,1960-01-01,2024-12-01,World Bank Commodity Pink Sheet,Verified
+Copper,Mine Production,Annual,2018-01-01,2025-12-31,ICSG / USGS Mineral Summaries,Verified
+Copper,Refined Production,Annual,2022-01-01,2025-12-31,International Copper Study Group (ICSG),Verified
+Copper,Refined Usage,Annual,2022-01-01,2025-12-31,International Copper Study Group (ICSG),Verified
+Copper,Refined Market Balance,Annual,2022-01-01,2025-12-31,International Copper Study Group (ICSG),Verified
+Copper,Futures Price (HG=F),Daily,2000-08-30,2026-10-20,CME / COMEX via Yahoo Finance,Verified
+Copper,ETF Tracking (CPER),Daily,2011-11-15,2026-10-19,United States Copper Index Fund,Verified
+Copper,Positioning (CFTC COT),Weekly,2018-01-02,2024-12-31,CFTC Disaggregated & Legacy (085692),Verified
+Copper,Global Benchmark Price,Monthly,1960-01-01,2024-12-01,World Bank Commodity Pink Sheet,Verified
+Platinum,Total Mining Supply,Annual / Quarterly,2015-01-01,2026-12-31,World Platinum Investment Council (WPIC),Verified
+Platinum,Recycling Supply,Annual / Quarterly,2015-01-01,2026-12-31,World Platinum Investment Council (WPIC),Verified
+Platinum,Automotive Demand,Annual / Quarterly,2015-01-01,2026-12-31,World Platinum Investment Council (WPIC),Verified
+Platinum,Industrial Demand,Annual / Quarterly,2015-01-01,2026-12-31,World Platinum Investment Council (WPIC),Verified
+Platinum,Jewelry Demand,Annual / Quarterly,2015-01-01,2026-12-31,World Platinum Investment Council (WPIC),Verified
+Platinum,Investment Demand,Annual / Quarterly,2015-01-01,2026-12-31,World Platinum Investment Council (WPIC),Verified
+Platinum,Reported Market Balance,Annual / Quarterly,2015-01-01,2026-12-31,World Platinum Investment Council (WPIC),Verified
+Platinum,Above Ground Stocks,Annual / Quarterly,2015-01-01,2026-12-31,World Platinum Investment Council (WPIC),Verified
+Platinum,Historical Balance (1975-2012),Annual,1975-01-01,2012-12-31,Johnson Matthey Historical Archives,Verified
+Platinum,Futures Price (PL=F),Daily,2000-01-04,2026-10-20,CME / NYMEX via Yahoo Finance,Verified
+Platinum,ETF Metal Holdings (PPLT),Daily,2010-01-08,2026-10-19,abrdn Physical Platinum Shares ETF,Verified
+Platinum,Positioning (CFTC COT),Weekly,2018-01-02,2024-12-31,CFTC Disaggregated & Legacy (076651),Verified
+Platinum,Global Benchmark Price,Monthly,1960-01-01,2024-12-01,World Bank Commodity Pink Sheet,Verified
+Common / Macro,US 10Y Real Yield (DFII10),Daily,2003-01-02,2026-10-16,Federal Reserve Bank of St. Louis (FRED),Verified
+Common / Macro,US 10Y Nominal Yield (DGS10),Daily,1962-01-02,2026-10-16,Federal Reserve Bank of St. Louis (FRED),Verified
+Common / Macro,US Dollar Index (DXY),Daily,2000-01-03,2026-10-20,ICE / Yahoo Finance (DX-Y.NYB),Verified
+Common / Macro,Gold Continuous Futures (GC=F),Daily,2000-08-30,2026-10-20,CME / COMEX via Yahoo Finance,Verified

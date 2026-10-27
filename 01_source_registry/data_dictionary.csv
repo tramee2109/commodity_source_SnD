@@ -1,0 +1,26 @@
+metal,metric_name,metric_category,standard_unit,original_unit,frequency,description,economic_relationship,calculation_formula
+Silver,mine_production,Physical Supply,Moz,Moz / Tonnes,Annual,Global silver mine output,Supply driver. Cost and byproduct dynamics (lead/zinc/copper mines).,Direct reported / Sum of countries
+Silver,recycling_supply,Physical Supply,Moz,Moz,Annual,Scrap recovery from industrial and jewelry sources,Price elastic secondary supply.,Direct reported
+Silver,net_hedging_supply,Physical Supply,Moz,Moz,Annual,Producer de-hedging or forward sales,Financial supply contribution.,Direct reported
+Silver,total_supply,Physical Supply,Moz,Moz,Annual,Aggregate global physical silver supply,Supply curve aggregate.,mine_production + recycling_supply + net_hedging_supply + official_sales
+Silver,industrial_demand,Physical Demand,Moz,Moz,Annual,"Silver used in electronics, solar PV, brazing, and catalysts","Structural demand growth, high GDP/tech elasticity.",Sum of subsectors
+Silver,photovoltaic_demand,Physical Demand,Moz,Moz,Annual,Silver paste consumption in solar panel cells,Clean energy transition driver; key structural deficit engine.,Direct reported (Metals Focus)
+Silver,jewelry_silverware_demand,Physical Demand,Moz,Moz,Annual,Jewelry and silverware fabrication,"Consumer discretionary, price sensitive.",Direct reported
+Silver,physical_investment_demand,Physical Demand,Moz,Moz,Annual,Silver bars and official coins purchased by retail and private investors,Safe haven and inflation hedge demand.,Direct reported
+Silver,total_physical_demand,Physical Demand,Moz,Moz,Annual,Total global physical silver consumption,Demand curve aggregate.,industrial_demand + jewelry_silverware_demand + physical_investment_demand
+Silver,market_balance_reported,Market Balance,Moz,Moz,Annual,Reported market balance published by Silver Institute,"Surplus (+), Deficit (-). Primary physical balance anchor.",Direct from survey
+Silver,market_balance_calculated,Market Balance,Moz,Moz,Annual,Calculated physical balance,"Surplus (+), Deficit (-).",total_supply - total_physical_demand
+Copper,mine_production,Physical Supply,kt,kt / mt,Annual / Monthly,Copper concentrate and SX-EW mine production,"Primary upstream supply. Key nodes: Chile, Peru, DRC, China.",Direct reported
+Copper,refined_production,Physical Supply,kt,kt,Annual / Monthly,Total refined copper output from primary and secondary smelters,Tradable physical cathode supply.,Primary refined + Secondary refined
+Copper,refined_usage,Physical Demand,kt,kt,Annual / Monthly,Apparent and estimated refined copper usage/consumption,Global industrial cycle bellwether (Dr. Copper).,Direct reported by ICSG
+Copper,market_balance_reported,Market Balance,kt,kt,Annual / Monthly,World refined copper balance (Surplus/Deficit),"Positive = Surplus, Negative = Deficit.",refined_production - refined_usage
+Copper,warehouse_stocks,Inventory,kt,kt / tonnes,Daily / Weekly,Exchange warehouse stocks (LME + SHFE + COMEX),"Direct buffer inventory, inversely correlated with spread/backwardation.",LME + SHFE + COMEX
+Platinum,total_mining_supply,Physical Supply,koz,koz,Quarterly / Annual,"Global refined mine supply (South Africa, Russia, Zimbabwe, North America)",Geographically concentrated supply; susceptible to power cuts and strikes.,Direct reported by WPIC
+Platinum,recycling_supply,Physical Supply,koz,koz,Quarterly / Annual,"Secondary supply recovered from autocatalysts, electronics, and jewelry",Vehicle scrap rate and steel cycle dependent.,Autocatalyst scrap + Jewelry scrap + Industrial scrap
+Platinum,total_supply,Physical Supply,koz,koz,Quarterly / Annual,Total global platinum supply,Total physical inflows.,total_mining_supply + recycling_supply
+Platinum,automotive_demand,Physical Demand,koz,koz,Quarterly / Annual,Autocatalysts for diesel and heavy-duty hybrid internal combustion engines,Largest single demand segment (~40%). Regulated emissions standards.,Direct reported
+Platinum,industrial_demand,Physical Demand,koz,koz,Quarterly / Annual,"Chemical, petroleum, glass, medical, and hydrogen PEM electrolyzers",Industrial capacity expansion and hydrogen economy.,"Sum of chemical, medical, glass, petroleum"
+Platinum,jewelry_demand,Physical Demand,koz,koz,Quarterly / Annual,"Jewelry fabrication (primarily China, Japan, India, US)","Luxury demand, substitution with white gold.",Direct reported
+Platinum,investment_demand,Physical Demand,koz,koz,Quarterly / Annual,"Bars, coins, and ETF physical metal holdings change",Financial investor flows.,Bar & coin + ETF change + Exchange stock change
+Platinum,total_demand,Physical Demand,koz,koz,Quarterly / Annual,Total global platinum demand,Total physical outflows.,automotive + industrial + jewelry + investment
+Platinum,market_balance_reported,Market Balance,koz,koz,Quarterly / Annual,Reported market balance published by WPIC,"Positive = Surplus, Negative = Deficit.",total_supply - total_demand

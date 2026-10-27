@@ -1,0 +1,390 @@
+{
+    "silver_institute": {
+        "https://silverinstitute.org/silver-supply-demand/": {
+            "status": 200,
+            "tables_count": 0,
+            "pdf_links": [
+                [
+                    "WORLD SILVER SURVEYS",
+                    "https://silverinstitute.org/all-world-silver-surveys-2025/"
+                ]
+            ]
+        },
+        "https://silverinstitute.org/all-world-silver-surveys-2025/": {
+            "status": 200,
+            "tables_count": 0,
+            "pdf_links": [
+                [
+                    "WORLD SILVER SURVEYS",
+                    "https://silverinstitute.org/all-world-silver-surveys-2025/"
+                ],
+                [
+                    "2026 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2026/04/World-Silver-Survey-2026.pdf"
+                ],
+                [
+                    "2025 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2025/04/World_Silver_Survey-2025.pdf"
+                ],
+                [
+                    "2024 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2024/07/World-Silver-Survey-2024.pdf"
+                ],
+                [
+                    "2023 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2023/04/World-Silver-Survey-2023.pdf"
+                ],
+                [
+                    "2022 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2022/04/World-Silver-Survey-2022.pdf"
+                ],
+                [
+                    "2021 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2021/04/World-Silver-Survey-2021.pdf"
+                ],
+                [
+                    "2020 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2020/04/World-Silver-Survey-2020.pdf"
+                ],
+                [
+                    "2019 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2019/04/WSS2019V3.pdf"
+                ],
+                [
+                    "2018 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2018/04/2018WorldSilverSurvey.pdf"
+                ],
+                [
+                    "2017 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2017/10/2017WorldSilverSurvey.pdf"
+                ],
+                [
+                    "2016 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2017/10/2016WorldSilverSurvey.pdf"
+                ],
+                [
+                    "2015 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2017/10/2015WorldSilverSurvey.pdf"
+                ],
+                [
+                    "2014 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2017/10/2014WorldSilverSurvey.pdf"
+                ],
+                [
+                    "2013 World Silver Survey",
+                    "https://silverinstitute.org/wp-content/uploads/2017/10/2013WorldSilverSurvey.pdf"
+                ]
+            ]
+        },
+        "https://silverinstitute.org/world-silver-survey/": {
+            "status": 200,
+            "tables_count": 0,
+            "pdf_links": [
+                [
+                    "WORLD SILVER SURVEYS",
+                    "https://silverinstitute.org/all-world-silver-surveys-2025/"
+                ],
+                [
+                    "World Silver Survey 2017",
+                    "https://silverinstitute.opt-wp.cloud.bosslogics.com/world-silver-survey-2016/wss2017/"
+                ]
+            ]
+        }
+    },
+    "wpic": {
+        "https://platinuminvestment.com/supply-and-demand/historic-data": {
+            "status": 200,
+            "tables_count": 0,
+            "download_links": [
+                [
+                    "Download [XLSX]",
+                    "/files/354715/PQ_Table_Q2_2026.xlsx"
+                ],
+                [
+                    "Download [XLSX]",
+                    "/files/354715/WPIC_PQ_tables_Q2_2026.xlsx"
+                ],
+                [
+                    "Download [PDF]",
+                    "/files/354715/PQ_Table_Q2_2026.pdf"
+                ],
+                [
+                    "Download [XLS]",
+                    "/files/Johnson Matthey xls-2004-to-2012.xls"
+                ],
+                [
+                    "Download [PDF]",
+                    "/files/Johnson Matthey xls-2004-to-2012.pdf"
+                ],
+                [
+                    "Download [XLS]",
+                    "/files/Johnson Matthey xls-2000-to-2004.xls"
+                ],
+                [
+                    "Download [PDF]",
+                    "/files/Johnson Matthey pdf-2000-to-2004.pdf"
+                ],
+                [
+                    "Download [XLS]",
+                    "/files/Johnson Matthey xls-1975-to-1999-(note-shows-net-demand).xls"
+                ],
+                [
+                    "Download [PDF]",
+                    "/files/Johnson Matthey pdf-1975-to-1999-(note-shows-net-demand).pdf"
+                ]
+            ]
+        },
+        "https://platinuminvestment.com/supply-and-demand/platinum-quarterly": {
+            "status": 200,
+            "tables_count": 0,
+            "download_links": [
+                [
+                    "English",
+                    "/files/354715/WPIC_Platinum_Quarterly_Q2_2026.pdf"
+                ],
+                [
+                    "\u65e5\u672c\u8a9e",
+                    "/files/354715/WPIC_Platinum_Quarterly_Q2_2026_JA.pdf"
+                ],
+                [
+                    "\u7b80\u4f53\u4e2d\u6587",
+                    "/files/354716/WPIC_Platinum_Quarterly_Q2_2026_ZH.pdf"
+                ],
+                [
+                    "English",
+                    "/files/693584/WPIC_Platinum_Quarterly_Q2_2026_Presentation.pdf"
+                ],
+                [
+                    "\u65e5\u672c\u8a9e",
+                    "/files/693584/WPIC_Platinum_Quarterly_Q2_2026_Presentation_JA.pdf"
+                ],
+                [
+                    "\u7b80\u4f53\u4e2d\u6587",
+                    "/files/693584/WPIC_Platinum_Quarterly_Q2_2026_Presentation_ZH.pdf"
+                ],
+                [
+                    "Download Tables\n                    [XLS]",
+                    "/files/354715/WPIC_PQ_tables_Q2_2026.xlsx"
+                ]
+            ]
+        }
+    },
+    "icsg": {
+        "https://icsg.org/selected-copper-statistics/": {
+            "status": 200,
+            "tables_count": 0,
+            "links": [
+                [
+                    "ACTIVITIES",
+                    "https://icsg.org/statistical/"
+                ],
+                [
+                    "Statistical",
+                    "https://icsg.org/statistical/"
+                ],
+                [
+                    "ACTIVITIES",
+                    "https://icsg.org/statistical/"
+                ],
+                [
+                    "Statistical",
+                    "https://icsg.org/statistical/"
+                ],
+                [
+                    "World refined copper production and usage trends",
+                    "https://icsg.org/wp-content/uploads/Table1.pdf"
+                ],
+                [
+                    "Copper mine, smelter, refinery production, and refined copper usage by geographical area",
+                    "https://icsg.org/wp-content/uploads/Table2.pdf"
+                ],
+                [
+                    "Trends in world refined copper stocks and prices",
+                    "https://icsg.org/wp-content/uploads/Chart1.pdf"
+                ],
+                [
+                    "Copper Forecast",
+                    "https://icsg.org/download/2026-04-23-press-release-icsg-copper-market-forecast-2026-2027/?wpdmdl=9245&ind=69ea529460d24&refresh=9a8e40d5&filename=2026-04-23-ICSG-Forecast-Press-Release.pdf"
+                ]
+            ]
+        },
+        "https://icsg.org/copper-bulletin/": {
+            "status": 200,
+            "tables_count": 0,
+            "links": [
+                [
+                    "ACTIVITIES",
+                    "https://icsg.org/statistical/"
+                ],
+                [
+                    "Statistical",
+                    "https://icsg.org/statistical/"
+                ],
+                [
+                    "ACTIVITIES",
+                    "https://icsg.org/statistical/"
+                ],
+                [
+                    "Statistical",
+                    "https://icsg.org/statistical/"
+                ]
+            ]
+        },
+        "https://icsg.org/download/icsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables/": {
+            "status": 200,
+            "tables_count": 0,
+            "links": [
+                [
+                    "Previous",
+                    "https://icsg.org/download/icsg-copper-statistical-yearbook-2015-2024-2025-edition/"
+                ],
+                [
+                    "Next",
+                    "https://icsg.org/download/2025-10-press-release-icsg-copper-statistical-yearbook-2015-2024-2025-edition/"
+                ],
+                [
+                    "0 Comments",
+                    "https://icsg.org/download/icsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables/#respond"
+                ],
+                [
+                    "Facebook",
+                    "https://www.facebook.com/sharer.php?u=https%3A%2F%2Ficsg.org%2Fdownload%2Ficsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables%2F&t=ICSG%20Copper%20Statistical%20Yearbook%202015-2024%20%282025%20Edition%29%20%E2%80%93%20Excel%20tables"
+                ],
+                [
+                    "X",
+                    "https://x.com/intent/post?url=https%3A%2F%2Ficsg.org%2Fdownload%2Ficsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables%2F&text=ICSG%20Copper%20Statistical%20Yearbook%202015-2024%20%282025%20Edition%29%20%E2%80%93%20Excel%20tables"
+                ],
+                [
+                    "Reddit",
+                    "https://reddit.com/submit?url=https://icsg.org/download/icsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables/&title=ICSG%20Copper%20Statistical%20Yearbook%202015-2024%20%282025%20Edition%29%20%E2%80%93%20Excel%20tables"
+                ],
+                [
+                    "LinkedIn",
+                    "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ficsg.org%2Fdownload%2Ficsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables%2F&title=ICSG%20Copper%20Statistical%20Yearbook%202015-2024%20%282025%20Edition%29%20%E2%80%93%20Excel%20tables&summary="
+                ],
+                [
+                    "WhatsApp",
+                    "https://api.whatsapp.com/send?text=https%3A%2F%2Ficsg.org%2Fdownload%2Ficsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables%2F"
+                ],
+                [
+                    "Tumblr",
+                    "https://www.tumblr.com/share/link?url=https%3A%2F%2Ficsg.org%2Fdownload%2Ficsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables%2F&name=ICSG%20Copper%20Statistical%20Yearbook%202015-2024%20%282025%20Edition%29%20%E2%80%93%20Excel%20tables&description="
+                ],
+                [
+                    "Pinterest",
+                    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ficsg.org%2Fdownload%2Ficsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables%2F&description=&media="
+                ],
+                [
+                    "Vk",
+                    "https://vk.com/share.php?url=https%3A%2F%2Ficsg.org%2Fdownload%2Ficsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables%2F&title=ICSG%20Copper%20Statistical%20Yearbook%202015-2024%20%282025%20Edition%29%20%E2%80%93%20Excel%20tables&description="
+                ],
+                [
+                    "Email",
+                    "mailto:?body=https://icsg.org/download/icsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables/&subject=ICSG%20Copper%20Statistical%20Yearbook%202015-2024%20%282025%20Edition%29%20%E2%80%93%20Excel%20tables"
+                ],
+                [
+                    "Cancel reply",
+                    "/download/icsg-copper-statistical-yearbook-2015-2024-2025-edition-excel-tables/#respond"
+                ]
+            ]
+        }
+    },
+    "usgs": {
+        "silver": [
+            {
+                "year": 2025,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-silver.pdf",
+                "size": 744783
+            },
+            {
+                "year": 2024,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-silver.pdf",
+                "size": 808370
+            },
+            {
+                "year": 2023,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-silver.pdf",
+                "size": 181044
+            },
+            {
+                "year": 2022,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-silver.pdf",
+                "size": 138395
+            },
+            {
+                "year": 2021,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2021/mcs2021-silver.pdf",
+                "size": 129583
+            },
+            {
+                "year": 2020,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-silver.pdf",
+                "size": 112521
+            }
+        ],
+        "copper": [
+            {
+                "year": 2025,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-copper.pdf",
+                "size": 746302
+            },
+            {
+                "year": 2024,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-copper.pdf",
+                "size": 746957
+            },
+            {
+                "year": 2023,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2023/mcs2023-copper.pdf",
+                "size": 186418
+            },
+            {
+                "year": 2022,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-copper.pdf",
+                "size": 146855
+            },
+            {
+                "year": 2021,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2021/mcs2021-copper.pdf",
+                "size": 136162
+            },
+            {
+                "year": 2020,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-copper.pdf",
+                "size": 138186
+            }
+        ],
+        "platinum": [
+            {
+                "year": 2022,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-platinum.pdf",
+                "size": 144723
+            },
+            {
+                "year": 2021,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2021/mcs2021-platinum.pdf",
+                "size": 132219
+            },
+            {
+                "year": 2020,
+                "url": "https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-platinum.pdf",
+                "size": 160734
+            }
+        ]
+    },
+    "world_bank": {
+        "status": 200,
+        "size": 0,
+        "url": "https://thedocs.worldbank.org/en/doc/5d903e848db1d1b83e0ec8f744e55570-0350012021/related/CMO-Historical-Data-Monthly.xlsx"
+    },
+    "cftc": {
+        "socrata": {
+            "status": 403,
+            "size": 520
+        },
+        "zip_2024": {
+            "status": 403,
+            "size": 0
+        }
+    }
+}

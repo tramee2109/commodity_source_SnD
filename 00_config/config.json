@@ -1,0 +1,45 @@
+{
+    "project_name": "Commodity Equilibrium Historical Data Engine",
+    "version": "1.0.0",
+    "target_metals": [
+        "Silver",
+        "Copper",
+        "Platinum"
+    ],
+    "time_range": {
+        "target_start": "2000-01-01",
+        "primary_end": "present"
+    },
+    "units": {
+        "silver": {
+            "standard": "Moz",
+            "conversion_from_tonnes": 32.1507,
+            "conversion_from_koz": 0.001
+        },
+        "copper": {
+            "standard": "kt",
+            "conversion_from_mt": 0.001,
+            "conversion_from_tonnes": 0.001
+        },
+        "platinum": {
+            "standard": "koz",
+            "conversion_from_tonnes": 32.1507,
+            "conversion_from_moz": 1000.0
+        }
+    },
+    "balance_formula": "market_balance = total_supply - total_demand (positive = surplus, negative = deficit)",
+    "paths": {
+        "base": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium",
+        "source_registry": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium\\01_source_registry\\source_registry.csv",
+        "download_manifest": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium\\01_source_registry\\download_manifest.csv",
+        "data_dictionary": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium\\01_source_registry\\data_dictionary.csv",
+        "raw": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium\\02_raw",
+        "extracted": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium\\03_extracted",
+        "normalized": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium\\04_normalized",
+        "validated": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium\\05_validated",
+        "canonical": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium\\06_canonical",
+        "features": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium\\07_daily_features",
+        "reports": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium\\08_reports",
+        "logs": "e:\\My\\the20\\test_strategy\\commodity source\\commodity_equilibrium\\09_logs"
+    }
+}
